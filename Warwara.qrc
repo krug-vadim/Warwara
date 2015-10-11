@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/ui/HierarchyDelegate.qml</file>
+        <file>src/ui/main.qml</file>
+    </qresource>
+</RCC>
